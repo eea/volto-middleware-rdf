@@ -1,6 +1,6 @@
 {
   "name": "@eeacms/volto-middleware-rdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "@eeacms/volto-middleware-rdf: Volto add-on",
   "main": "src/index.js",
   "author": "European Environment Agency: IDM2 A-Team",
@@ -16,8 +16,7 @@
     "type": "git",
     "url": "git@github.com:eea/volto-middleware-rdf.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "release-it": "*",
     "@cypress/code-coverage": "^3.9.5",
